@@ -1,0 +1,20 @@
+{
+    "transactions": [
+        {
+            "value": -42,
+            "category": "transport"
+        },
+        {
+            "value": 1234,
+            "category": "salary"
+        },
+        {
+            "category": "requin",
+            "value": 42
+        },
+        {
+            "category": "chat",
+            "value": 55.0
+        }
+    ]
+}
